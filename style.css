@@ -5,7 +5,7 @@ body{
 #container{
     width: 1000px;
     height: 550px;
-    background-image: url(../image/gear.jpg);
+    background-image: url(image/gear.jpg);
     margin: 20px auto;
     background-size: cover;
 }
